@@ -1,1 +1,1 @@
-# journeyers_releases
+# Releases for the Journeyers project
