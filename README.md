@@ -1,4 +1,4 @@
-# Journeyers project: alpha releases
+# Journeyers project: alpha releases 
 
 ## Android: apk file install
 
