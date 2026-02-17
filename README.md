@@ -1,4 +1,4 @@
-# Journeyers project: alpha releases (02/17/26: new date format)
+# Journeyers project: alpha releases 
 
 ## Android: apk file install
 
@@ -7,3 +7,6 @@ Assuming that you moved the file on Android using USB, I was able to install the
 <br>
 <br>
 Alpha releases for other systems, when feasible outside of an app store, are planned.
+
+**Updates**:<br>
+02/17/26: new date format
