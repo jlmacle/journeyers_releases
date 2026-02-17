@@ -1,4 +1,4 @@
-# Journeyers project: alpha releases
+# Journeyers project: alpha releases (02/17/26: new date format)
 
 ## Android: apk file install
 
