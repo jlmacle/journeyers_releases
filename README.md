@@ -1,3 +1,4 @@
+
 # Journeyers project: alpha releases 
 
 ## Android: apk file install
@@ -7,3 +8,5 @@ Assuming that you moved the file on Android using USB, I was able to install the
 <br>
 <br>
 Alpha releases for other systems, when feasible outside of an app store, are planned.
+<br> [A pre-view video](https://github.com/jlmacle/journeyers_releases/blob/main/video.mp4). 
+<br>(The "Edit" and "Sharing" features are not yet implemented. Issues might remain with the other features.)
