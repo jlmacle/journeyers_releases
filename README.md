@@ -2,7 +2,7 @@
 # Journeyers project: alpha releases 
 
 ## Android: apk file install
-[You can start downloading the apk](https://github.com/jlmacle/journeyers_releases/blob/main/app-alpha-release.apk) by clicking on "View raw".<br>
+[You can start downloading the apk](https://github.com/jlmacle/journeyers_releases/blob/main/app-alpha-release.apk) by clicking on the "Download raw file" icon.<br>
 You might have to wait a while before being asked where to save the file.<br>
 
 Assuming that you moved the file on Android using USB, I was able to install the apk, from the "Files" app, with:<br> 
